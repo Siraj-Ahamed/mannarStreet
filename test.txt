@@ -1,1 +1,9 @@
 01. This is my sample code and this is for learning git.
+
+Git commands I learnt today
+1)git init
+2)git add
+3)git commit -m "msg"
+4)git branch -M master
+5)git remote add origin url
+6)git push -u origin master
